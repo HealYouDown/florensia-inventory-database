@@ -1,0 +1,7 @@
+env/
+build/
+.vscode/
+__pycache__/
+dist/
+*.txt
+*.xlsx
