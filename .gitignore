@@ -3,5 +3,5 @@ build/
 .vscode/
 __pycache__/
 dist/
-*.txt
+log.txt
 *.xlsx
