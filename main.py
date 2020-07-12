@@ -12,9 +12,9 @@ from pywinbot import Address, MemoryReader
 from strings import get_strings
 import traceback
 
-INVENTORY_BASE_ADDRESS = Address("007B3398")
-PLAYER_BASE_ADDRESS = Address("00D49F24")
-CREDENTIALS_BASE_ADDRESS = Address("007B3660")
+INVENTORY_BASE_ADDRESS = Address("007BA638")
+PLAYER_BASE_ADDRESS = Address("00D511D8")
+CREDENTIALS_BASE_ADDRESS = Address("007BA650")
 IS_ADMIN = ctypes.windll.shell32.IsUserAnAdmin() != 0
 
 logger = setup_logger()

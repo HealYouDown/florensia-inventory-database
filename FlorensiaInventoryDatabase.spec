@@ -30,4 +30,4 @@ exe = EXE(pyz,
           upx=True,
           upx_exclude=[],
           runtime_tmpdir=None,
-          console=False , uac_admin=True, icon='icon.ico')
+          console=True , uac_admin=True, icon='icon.ico')

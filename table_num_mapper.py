@@ -181,7 +181,15 @@ mapper = {
         "file": "ProductStr.dat",
     },
     "49": {
-        "name": "RidingPet",
+        "name": "Riding Pet",
         "file": "RidingpetItemStr.dat",
+    },
+    "50": {
+        "name": "Essence",
+        "file": "ArtifactStr.dat",
+    },
+    "51": {
+        "name": "Essence Help",
+        "file": "ArtifactManagItemStr.dat"
     },
 }
